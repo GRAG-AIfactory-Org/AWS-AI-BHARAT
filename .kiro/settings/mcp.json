@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "aws-diagram": {
+      "command": "C:\\Users\\nites\\.local\\bin\\awslabs.aws-diagram-mcp-server.exe",
+      "autoApprove": [
+        "generate_diagram"
+      ]
+    }
+  }
+}
